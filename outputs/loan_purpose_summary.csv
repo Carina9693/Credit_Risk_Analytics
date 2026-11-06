@@ -1,0 +1,6 @@
+LoanPurpose,Total_Loans,Total_Defaulters,Average_Loan_Amount,Default_Rate
+Auto,50844,6041,127857.91,11.88
+Business,51298,6323,127141.81,12.33
+Education,51005,6038,127645.82,11.84
+Home,51286,5249,127622.38,10.23
+Other,50914,6002,127629.65,11.79
