@@ -2,7 +2,7 @@ Credit Risk Analytics & Classification
 
 Project Overview
 
-The **Credit Risk Analytics & Classification** project focuses on analyzing loan applicant data to identify potential credit risks and predict loan defaults using data analytics and machine learning techniques.
+The Credit Risk Analytics & Classification project focuses on analyzing loan applicant data to identify potential credit risks and predict loan defaults using data analytics and machine learning techniques.
 
 The project combines SQL, Python, Machine Learning, and Power BI to transform raw loan data into meaningful insights, evaluate borrower risk, and support data-driven lending decisions.
 
@@ -27,15 +27,15 @@ Tech Stack
 | Power BI | Interactive dashboard |
 | Jupyter Notebook | Analysis and experimentation |
 
-## Project Workflow
+Project Workflow
 
-1. Data Preparation:** Importing and understanding the loan dataset.
+1. Data Preparation: Importing and understanding the loan dataset.
 2. SQL Analysis: Writing 21 SQL queries to analyze borrower information, loan characteristics, and default patterns.
 3. Exploratory Data Analysis: Identifying trends, distributions, and relationships within the dataset.
 4. Data Preprocessing:Preparing features for machine learning.
 5. Model Development:Building Logistic Regression and Random Forest classification models.
 6. Model Evaluation: Comparing model performance and analyzing different classification thresholds.
-7. Dashboard Development:** Creating an interactive Power BI dashboard to visualize credit risk insights.
+7. Dashboard Development: Creating an interactive Power BI dashboard to visualize credit risk insights.
 
 Machine Learning Models
 
